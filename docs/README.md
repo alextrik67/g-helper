@@ -7,13 +7,13 @@
 # [:floppy_disk:Download](https://github.com/seerge/g-helper/releases/latest/download/GHelper.zip)
 
 - [FAQ](https://github.com/seerge/g-helper/wiki/FAQ)
-- [Setup and Requirements](https://github.com/seerge/g-helper/wiki/Requirements)
-- [Troubleshooting](https://github.com/seerge/g-helper/wiki/Troubleshooting)
-- [Power User Settings](https://github.com/seerge/g-helper/wiki/Power-user-settings)
+- [НАстройки и требования](https://github.com/seerge/g-helper/wiki/Requirements)
+- [Поиск неисправностей](https://github.com/seerge/g-helper/wiki/Troubleshooting)
+- [Настройки для опытных пользователей](https://github.com/seerge/g-helper/wiki/Power-user-settings)
 
-### Support project : [:euro: Paypal EUR](https://www.paypal.com/donate/?hosted_button_id=4HMSHS4EBQWTA) | [💵 Paypal USD](https://www.paypal.com/donate/?hosted_button_id=SRM6QUX6ACXDY)  | [🪙 Stripe](https://buy.stripe.com/00gaFJ9Lf79v7WobII)
+### Поддержка проекта: [:euro: Paypal EUR](https://www.paypal.com/donate/?hosted_button_id=4HMSHS4EBQWTA) | [💵 Paypal USD](https://www.paypal.com/donate/?hosted_button_id=SRM6QUX6ACXDY)  | [🪙 Stripe](https://buy.stripe.com/00gaFJ9Lf79v7WobII)
 
-[![G-Helper Download](https://github.com/seerge/g-helper/assets/5920850/4d98465a-63a5-4498-ae14-afb3e67e7e82)](https://github.com/seerge/g-helper/releases/latest/download/GHelper.zip)
+[![Скачать G-Helper](https://github.com/seerge/g-helper/assets/5920850/4d98465a-63a5-4498-ae14-afb3e67e7e82)](https://github.com/seerge/g-helper/releases/latest/download/GHelper.zip)
 
 ## :loudspeaker: Обзоры и гайды на YouTube
 | [![Youtube review Josh Cravey](https://i.ytimg.com/vi/hqe-PjuE-K8/hqdefault.jpg)](https://www.youtube.com/watch?v=hqe-PjuE-K8) | [![Youtube review cbutters Tech](https://i.ytimg.com/vi/6aVdwJKZSSc/hqdefault.jpg)](https://www.youtube.com/watch?v=6aVdwJKZSSc) |
@@ -151,14 +151,14 @@ G-Helper **НЕ** является операционной системой, п
 
 Роль G-Helper для вашего ноутбука аналогична роли пульта дистанционного управления для вашего телевизора.
 
-### Libraries and projects used
+### Используемые библиотеки
 - [Ядро Linux](https://github.com/torvalds/linux/blob/master/drivers/platform/x86/asus-wmi.c) для некоторых базовых конечных точек в интерфейсе ASUS ACPI/WMI.
 - [NvAPIWrapper](https://github.com/falahati/NvAPIWrapper) для доступа к Nvidia API
 - [Starlight](https://github.com/vddCore/Starlight) для протокола связи anime matrix  
 - [UXTU](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) для пониженного напряжения с использованием Ryzen System Management Unit
 - [AsusCtl](https://gitlab.com/asus-linux/asusctl) за вдохновение и небольшой реверс-инжиниринг
 
-### Disclaimers
+### Отказ от ответственности
 «ROG», «TUF» и «Armory Crate» являются товарными знаками и принадлежат компании AsusTek Computer, Inc. Я не предъявляю претензий на эти или какие-либо активы, принадлежащие AsusTek Computer, и использую их исключительно в информационных целях.
 
 ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ ПРЕДОСТАВЛЯЕТСЯ «КАК ЕСТЬ» И БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ, ЯВНЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ, ВКЛЮЧАЯ, НО НЕ ОГРАНИЧИВАЯСЬ, ГАРАНТИЯМИ ТОВАРНОЙ ЦЕННОСТИ, ПРИГОДНОСТИ ДЛЯ ОПРЕДЕЛЕННОЙ ЦЕЛИ И НЕНАРУШЕНИЯ ПРАВ. НЕПРАВИЛЬНОЕ ИСПОЛЬЗОВАНИЕ ЭТОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ МОЖЕТ ПРИВЕСТИ К НЕСТАБИЛЬНОСТИ ИЛИ НЕИСПРАВНОСТИ СИСТЕМЫ.
