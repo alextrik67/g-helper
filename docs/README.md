@@ -1,9 +1,8 @@
-# G-Helper - Lightweight control tool for Asus laptops
+# G-Helper - Легкий инструмент управления ноутбуками Asus
 [![GitHub release](https://img.shields.io/github/release/seerge/g-helper)](https://GitHub.com/seerge/g-helper/releases/) 
 [![Github all releases](https://img.shields.io/github/downloads/seerge/g-helper/total)](https://GitHub.com/seerge/g-helper/releases/)
 
-Small and lightweight Armoury Crate alternative for Asus laptops offering almost same functionality without extra load and unnecessary services. 
-Works with all popular models, such as ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, Flow Z13, TUF Series, Strix / Scar Series, ProArt, Vivobook, Zenbook, ROG Ally and many more! 
+Небольшая и легкая альтернатива Armory Crate для ноутбуков Asus, предлагающая практически ту же функциональность без дополнительной нагрузки и ненужных сервисов. Работает со всеми популярными моделями, такими как ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, Flow Z13, TUF Series, Strix/Scar Series, ProArt, Vivobook, Zenbook, ROG Ally и многими другими! 
 
 # [:floppy_disk:Download](https://github.com/seerge/g-helper/releases/latest/download/GHelper.zip)
 
@@ -16,76 +15,76 @@ Works with all popular models, such as ROG Zephyrus G14, G15, G16, M16, Flow X13
 
 [![G-Helper Download](https://github.com/seerge/g-helper/assets/5920850/4d98465a-63a5-4498-ae14-afb3e67e7e82)](https://github.com/seerge/g-helper/releases/latest/download/GHelper.zip)
 
-## :loudspeaker: YouTube Reviews and Guides
+## :loudspeaker: Обзоры и гайды на YouTube
 | [![Youtube review Josh Cravey](https://i.ytimg.com/vi/hqe-PjuE-K8/hqdefault.jpg)](https://www.youtube.com/watch?v=hqe-PjuE-K8) | [![Youtube review cbutters Tech](https://i.ytimg.com/vi/6aVdwJKZSSc/hqdefault.jpg)](https://www.youtube.com/watch?v=6aVdwJKZSSc) |
 | ----------------- | ---------------- | 
 | [Josh Cravey](https://www.youtube.com/watch?v=hqe-PjuE-K8) | [cbutters Tech](https://www.youtube.com/watch?v=6aVdwJKZSSc) | 
 
-## :gift: Advantages 
+## :gift: Преимущества 
 
-1. Seamless and automatic GPU switching
-2. All performance modes can be fully customized with power limits and fan curves
-3. Lightweight. Doesn't install anything in your system. Just a single exe to run
-4. Simple and clean native UI with easy access to all settings
-5. FN-Lock and custom hotkeys
+1. Бесшовное и автоматическое переключение графического процессора
+2. Все режимы производительности можно полностью настроить с помощью ограничений мощности и кривых вентилятора.
+3. Легкий. Ничего не устанавливает в вашу систему. Просто один exe для запуска
+4. Простой и понятный собственный пользовательский интерфейс с легким доступом ко всем настройкам.
+5. FN-Lock и пользовательские горячие клавиши
 
 ![Screenshot 2024-03-11 104354](https://github.com/seerge/g-helper/assets/5920850/626a5a6e-fdae-431c-843e-92886c8420ee)
 
-### :zap: Features
+### :zap: Особенности
 
-1. Performance modes: Silent - Balanced - Turbo (built-in, with default fan curves)
-2. GPU modes: Eco - Standard - Ultimate - Optimized
-3. Screen refresh rate control with display overdrive (OD) 
-4. Custom fan curve editor, power limits and turbo boost selection for every performance mode
-5. Anime Matrix or Slash Lighting control including animated GIFs, clock and Audio visualizer
-6. Backlight animation modes and colors 
-7. Custom hotkeys (M-keys, FN+X keys)
-8. Monitor CPU and GPU temperature, fan speeds and battery status
-9. Battery charge limit to preserve battery health
-10. NVidia GPU overclocking and undervolting
-11. XG Mobile Control
-12. AMD CPU Undervolting
-13. BIOS and Driver Updates
-14. Asus Mice settings
-15. Mini-led multi-zone switch
-16. Flicker-free dimming and Visual Modes
+1. Режимы производительности: Тихий, Сбалансированный, Турбо (встроенный, с кривыми вентилятора по умолчанию).
+2. Режимы графического процессора: Eco — Standard — Ultimate — Optimized
+3. Управление частотой обновления экрана с помощью функции Display Overdrive (OD)
+4. Редактор пользовательских кривых вентилятора, ограничения мощности и выбор турбонаддува для каждого режима производительности.
+5. Управление освещением Anime Matrix или Slash, включая анимированные GIF-файлы, часы и визуализатор звука.
+6. Режимы и цвета анимации подсветки
+7. Пользовательские горячие клавиши (M-клавиши, клавиши FN+X)
+8. Отслеживайте температуру процессора и графического процессора, скорость вращения вентиляторов и состояние батареи.
+9. Ограничение заряда аккумулятора для сохранения его работоспособности
+10. Разгон и понижение напряжения графического процессора NVIDIA
+11. Мобильное управление XG
+12. Андервольтинг процессора AMD
+13. Обновления BIOS и драйверов
+14. Настройки мыши Asus
+15. Многозонный переключатель с мини-светодиодом
+16. Затемнение без мерцания и визуальные режимы
 
-### :gear: Automation
-- Performance Mode switching when on battery or plugged in
-- Optimized GPU mode - disables dGPU on battery and enables when plugged in
-- Auto Screen refresh rate (60Hz on battery and max Hz when plugged)
-- Keyboard backlight timeout on battery or when plugged in
+### :gear: Автоматизация
+- Переключение режима производительности при работе от батареи или подключении к сети
+- Режим оптимизированного графического процессора — отключает dGPU при работе от батареи и включает при подключении к сети.
+- Автоматическая частота обновления экрана (60 Гц при работе от батареи и макс. Гц при подключении к сети)
+- Тайм-аут подсветки клавиатуры при работе от батареи или при подключении к сети
 
-_To keep auto switching and hotkeys working the app needs to stay running in the tray. It doesn't consume any resources._
+_Чтобы автоматическое переключение и горячие клавиши работали, приложение должно продолжать работать в трее. Он не потребляет никаких ресурсов._
 
-### :rocket: Performance Modes
+### :rocket: Режимы производительности
 
 <img align="right" width="300" src="https://github.com/seerge/g-helper/assets/5920850/3e119674-db8d-486b-aa65-2bf9b61f9aa6">
 
-All Modes are **baked in BIOS** along with default fan curves and power limits and they are the **same** as in the Armoury Crate.
+Все режимы **встроены в BIOS** вместе с кривыми вентиляторов по умолчанию и ограничениями мощности, и они **такие же**, как и в Armory Crate.
 
-Each BIOS mode is paired with matching Windows Power Mode. You can adjust this setting under ``Fans + Power``
+Каждый режим BIOS связан с соответствующим режимом питания Windows. Вы можете настроить этот параметр в разделе ``Fans + Power``
 
-1. **Silent** in BIOS + **Best power efficiency** power mode
-2. **Balanced** (Performance in AC) in BIOS  + **Balanced** power mode
-3. **Turbo** in BIOS + **Best performance** power mode
+1. **Тихий режим** в BIOS + **Энергопотребления** Лучший режим
+2. **Сбалансированный** (производительность при переменном токе)  в BIOS  + режим **сбалансированного** питания
+3. **Турбо ** в BIOS + режим **максимальной производительности**
    
 
-### :video_game: GPU Modes
+### :video_game: Режимы графического процессора
 
-1. **Eco** : only low power integrated GPU enabled, iGPU drives built in display
-2. **Standard** (MS Hybrid) : iGPU and dGPU enabled, iGPU drives built in display
-3. **Ultimate**: iGPU and dGPU enabled, but dGPU drives built in display (supported on 2022+ models)
-4. **Optimized**: disables dGPU on battery (Eco) and enables when plugged in (Standard)
+1. **Эко** :  включен только встроенный графический процессор с низким энергопотреблением, приводы iGPU встроены в дисплей.
+2. **Стандарт** (MS Hybrid) : включены iGPU и dGPU, диски iGPU встроены в дисплей.
+3. **Ultimate**: iGPU и dGPU включены, но диски dGPU имеют встроенный дисплей (поддерживается на моделях 2022+)
+4. **Оптимизировано**: отключает dGPU от батареи (Эко) и включает при подключении (Стандарт)
 
 ![Screenshot 2024-03-11 111818](https://github.com/seerge/g-helper/assets/5920850/fd69a81e-978d-4d5c-a0a8-26da51f90a5b)
 
 ![GPU Modes](https://github.com/seerge/g-helper/assets/5920850/65c6bdd5-728c-4965-b544-fcf5a85ed6a2)
 
 
-### :mouse: Asus Mouse and other peripherals support
+### :mouse: Поддержка Asus Mouse и других периферийных устройств
 
-[Currently supported models](https://github.com/seerge/g-helper/discussions/900)
+[Поддерживаемые модели](https://github.com/seerge/g-helper/discussions/900)
 - ROG Chakram X (P708)
 - ROG Chakram Core (P511)
 - ROG Gladius II and Gladius II Origin (P502 and P504)
@@ -102,39 +101,39 @@ Each BIOS mode is paired with matching Windows Power Mode. You can adjust this s
 - TUF Gaming M3
 - TUF Gaming M3 Gen II
 
-Huge thanks to [@IceStormNG](https://github.com/IceStormNG) 👑 for contribution and research (!).
+Огромное спасибо [@IceStormNG](https://github.com/IceStormNG) 👑 за вклад и исследования (!).
 
-### ⌨️ Keybindings
+### ⌨️ Горячие клавиши
 
-- ``Fn + F5 / Fn + Shift + F5`` - Toggle Performance Modes forwards / backwards
-- ``Ctrl + Shift + F5 / Ctrl + Shift + Alt + F5`` - Toggle Performance Modes forwards / backwards
-- ``Ctrl + Shift + F12`` - Open G-Helper window
-- ``Ctrl + M1 / M2`` - Screen brightness Down / Up
-- ``Shift + M1 / M2`` - Backlight brightness Down / Up
+- ``Fn + F5 / Fn + Shift + F5`` - Переключение режимов производительности вперед/назад.
+- ``Ctrl + Shift + F5 / Ctrl + Shift + Alt + F5`` - Переключение режимов производительности вперед/назад.
+- ``Ctrl + Shift + F12`` - Открыть окно G-Helper
+- ``Ctrl + M1 / M2`` -  Яркость экрана вниз/вверх
+- ``Shift + M1 / M2`` - Яркость подсветки Вниз/Вверх
 - ``Fn + C`` - Fn-Lock
 - ``Fn + Shift + F7 / F8`` - Matrix / Slash Lighting brightness Down / Up
 - ``Fn + Shift + F7 / F8`` - Screenpad brightness Down / Up
-- ``Ctrl + Shift + F20`` - Mute Microphone
-- ``Ctrl + Shift + Alt + F13`` - Toggle Display Refresh Rate
-- ``Ctrl + Shift + Alt + F14`` - Eco GPU Mode
-- ``Ctrl + Shift + Alt + F15`` - Standard GPU Mode
-- ``Ctrl + Shift + Alt + F16`` - Silent
-- ``Ctrl + Shift + Alt + F17`` - Balanced
-- ``Ctrl + Shift + Alt + F18`` - Turbo
-- ``Ctrl + Shift + Alt + F19`` - Custom 1 (if exists)
-- ``Ctrl + Shift + Alt + F20`` - Custom 2 (if exists)
+- ``Ctrl + Shift + F20`` - Отключение микрофона
+- ``Ctrl + Shift + Alt + F13`` - Переключение частоты обновления дисплея
+- ``Ctrl + Shift + Alt + F14`` - Эко-режим графического процессора
+- ``Ctrl + Shift + Alt + F15`` - Стандартный режим графического процессора
+- ``Ctrl + Shift + Alt + F16`` - Тихий режим
+- ``Ctrl + Shift + Alt + F17`` - Сбалансированный режим
+- ``Ctrl + Shift + Alt + F18`` - Турбо режим
+- ``Ctrl + Shift + Alt + F19`` - Custom 1 (если существует)
+- ``Ctrl + Shift + Alt + F20`` - Custom 2 (если существует)
 - [Custom keybindings / hotkeys](https://github.com/seerge/g-helper/wiki/Power-user-settings#custom-hotkey-actions)
 
-### 🎮ROG Ally Bindings
-- ``M + DPad Left / Right`` - Display Brightness
-- ``M + DPad Up`` - Touch keyboard
-- ``M + DPad Down`` - Show desktop
-- ``M + Y`` - Toggle AMD overay
-- ``M + X`` - Screenshot
-- ``M + Right Stick Click`` - Controller Mode
+### 🎮ROG Ally горячие клавиши
+- ``M + DPad Left / Right`` - Яркость дисплея
+- ``M + DPad Up`` - Сенсорная клавиатура
+- ``M + DPad Down`` - Показать рабочий стол
+- ``M + Y`` - Переключить наложение AMD
+- ``M + X`` - Скриншот
+- ``M + Right Stick Click`` - Режим контроллера
 
 ------------------
-#### If you like the app you can make a Donation 
+#### Если вам нравится приложение, вы можете сделать пожертвование
 
 | [Paypal in EUR](https://www.paypal.com/donate/?hosted_button_id=4HMSHS4EBQWTA) | [Paypal in USD](https://www.paypal.com/donate/?hosted_button_id=SRM6QUX6ACXDY) |
 | ------------------------------------------ | ----------------------------------------------- |
@@ -142,24 +141,24 @@ Huge thanks to [@IceStormNG](https://github.com/IceStormNG) 👑 for contributio
 
 ------------------
 
-### 🔖 Important Notice
+### 🔖 Важное примечание
 
-G-Helper is **NOT** an operating system, firmware, or driver. It **DOES NOT** "run" your hardware in real-time anyhow. 
+G-Helper **НЕ** является операционной системой, прошивкой или драйвером. В любом случае он **НЕ** «запускает» ваше оборудование в режиме реального времени.
 
-It's an app that lets you select one of the predefined operating modes created by manufacturer (and stored in BIOS) and optionally(!) set some settings that already exist on your device same as Armoury Crate can. It does it by using the Asus System Control Interface "driver" that Armoury uses for it.
+Это приложение, которое позволяет вам выбрать один из предопределенных режимов работы, созданных производителем (и сохраненных в BIOS), и при необходимости (!) Установить некоторые настройки, которые уже существуют на вашем устройстве, так же, как это может сделать Armory Crate. Он делает это с помощью «драйвера» интерфейса управления системой Asus, который Armory использует для этого.
 
-If you use equivalent mode/settings as in Armoury Crate - the performance or the behavior of your device won't be different.
+Если вы используете эквивалентный режим/настройки, как в Armory Crate, производительность и поведение вашего устройства не будут отличаться.
 
-The role of G-Helper for your laptop is similar to the role of a remote control for your TV.
+Роль G-Helper для вашего ноутбука аналогична роли пульта дистанционного управления для вашего телевизора.
 
 ### Libraries and projects used
-- [Linux Kernel](https://github.com/torvalds/linux/blob/master/drivers/platform/x86/asus-wmi.c) for some basic endpoints in ASUS ACPI/WMI interface
-- [NvAPIWrapper](https://github.com/falahati/NvAPIWrapper) for accessing Nvidia API
-- [Starlight](https://github.com/vddCore/Starlight) for anime matrix communication protocol
-- [UXTU](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) for undervolting using Ryzen System Management Unit
-- [AsusCtl](https://gitlab.com/asus-linux/asusctl) for inspiration and some reverse engineering
+- [Ядро Linux](https://github.com/torvalds/linux/blob/master/drivers/platform/x86/asus-wmi.c) для некоторых базовых конечных точек в интерфейсе ASUS ACPI/WMI.
+- [NvAPIWrapper](https://github.com/falahati/NvAPIWrapper) для доступа к Nvidia API
+- [Starlight](https://github.com/vddCore/Starlight) для протокола связи anime matrix  
+- [UXTU](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) для пониженного напряжения с использованием Ryzen System Management Unit
+- [AsusCtl](https://gitlab.com/asus-linux/asusctl) за вдохновение и небольшой реверс-инжиниринг
 
 ### Disclaimers
-"ROG", "TUF", and "Armoury Crate" are trademarked by and belong to AsusTek Computer, Inc. I make no claims to these or any assets belonging to AsusTek Computer and use them purely for informational purposes only.
+«ROG», «TUF» и «Armory Crate» являются товарными знаками и принадлежат компании AsusTek Computer, Inc. Я не предъявляю претензий на эти или какие-либо активы, принадлежащие AsusTek Computer, и использую их исключительно в информационных целях.
 
-THE SOFTWARE IS PROVIDED “AS IS” AND WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. MISUSE OF THIS SOFTWARE COULD CAUSE SYSTEM INSTABILITY OR MALFUNCTION.
+ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ ПРЕДОСТАВЛЯЕТСЯ «КАК ЕСТЬ» И БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ, ЯВНЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ, ВКЛЮЧАЯ, НО НЕ ОГРАНИЧИВАЯСЬ, ГАРАНТИЯМИ ТОВАРНОЙ ЦЕННОСТИ, ПРИГОДНОСТИ ДЛЯ ОПРЕДЕЛЕННОЙ ЦЕЛИ И НЕНАРУШЕНИЯ ПРАВ. НЕПРАВИЛЬНОЕ ИСПОЛЬЗОВАНИЕ ЭТОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ МОЖЕТ ПРИВЕСТИ К НЕСТАБИЛЬНОСТИ ИЛИ НЕИСПРАВНОСТИ СИСТЕМЫ.
